@@ -1,0 +1,1 @@
+2021-11-21 22:37:17.670840, flat_generator, ([['a', 'b', 'c'], ['d', 'e', 'f'], ['g', 'h', 'i']],), <generator object flat_generator at 0x00000143BEB260B0>, C:\VSCode\Netology\Decoration\file.txt
